@@ -11,10 +11,14 @@ A projeção ortográfica é uma forma de representar graficamente objetos tridi
 Primeiros testes com gráficos planos:
 
 ![image](https://user-images.githubusercontent.com/6897439/118873679-66a12300-b8c0-11eb-9b45-d1ce8b307f84.png)
+![image](https://user-images.githubusercontent.com/6897439/118875170-1a56e280-b8c2-11eb-87c0-7e0ba1fe1198.png)
 
 O código constrói o gráfico de uma superfície definida em forma paramétrica por F(u,v) = (f1(u,v), f2(u,v), f3(u,v)), com u E [umin, umax] e v E [umin, umax]:
 
-![image](https://user-images.githubusercontent.com/6897439/118873761-820c2e00-b8c0-11eb-9ca8-d771cb44dee6.png)
+![image](https://user-images.githubusercontent.com/6897439/118874943-d9f76480-b8c1-11eb-9b27-d1f0bdacd1df.png)
+![image](https://user-images.githubusercontent.com/6897439/118874972-e380cc80-b8c1-11eb-91fe-8bb821af06d2.png)
+![image](https://user-images.githubusercontent.com/6897439/118875073-001d0480-b8c2-11eb-98be-1df686762ad8.png)
+![image](https://user-images.githubusercontent.com/6897439/118875116-0a3f0300-b8c2-11eb-9444-9f2e30eb7678.png)
 
 Existem técnicas para melhorar a visualização do seu gráfico, como sombreamento, pintura e eliminação de curvas invisíveis. Para isso vários algoritmos podem ser usados, por exemplo:
 - Algoritmo do Pintor;
