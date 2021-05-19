@@ -8,10 +8,12 @@ O objetivo da Geometria Descritiva é representar com total rigor objetos tridim
 
 A projeção ortográfica é uma forma de representar graficamente objetos tridimensionais em superfícies planas, de modo a transmitir suas características com precisão e demonstrar sua verdadeira grandeza. Temos ainda Projeção cilíndrica ou paralela (do tipo oblíqua e ortogonal) e cônica ou central.
 
-Primeiros testes com gráficos planos
+Primeiros testes com gráficos planos:
+
 ![image](https://user-images.githubusercontent.com/6897439/118873679-66a12300-b8c0-11eb-9b45-d1ce8b307f84.png)
 
-O código constrói o gráfico de uma superfície definida em forma paramétrica por F(u,v) = (f1(u,v), f2(u,v), f3(u,v)), com u E [umin, umax] e v E [umin, umax].
+O código constrói o gráfico de uma superfície definida em forma paramétrica por F(u,v) = (f1(u,v), f2(u,v), f3(u,v)), com u E [umin, umax] e v E [umin, umax]:
+
 ![image](https://user-images.githubusercontent.com/6897439/118873761-820c2e00-b8c0-11eb-9ca8-d771cb44dee6.png)
 
 Existem técnicas para melhorar a visualização do seu gráfico, como sombreamento, pintura e eliminação de curvas invisíveis. Para isso vários algoritmos podem ser usados, por exemplo:
@@ -19,9 +21,12 @@ Existem técnicas para melhorar a visualização do seu gráfico, como sombreame
 - Algoritmo do Horizonte Flutuante;
 
 Usado com gráficos de funções z = f(x,y).
-Algumas funções utilizadas
+Algumas funções utilizadas:
+
 ![image](https://user-images.githubusercontent.com/6897439/118873795-8b959600-b8c0-11eb-82d9-acfa1e3ffa9f.png)
 ![image](https://user-images.githubusercontent.com/6897439/118873818-918b7700-b8c0-11eb-9538-6f9ed87d1677.png)
+
+Resultado:
 
 ![image](https://user-images.githubusercontent.com/6897439/118873879-a536dd80-b8c0-11eb-936c-977c96e16033.png)
 ![image](https://user-images.githubusercontent.com/6897439/118873888-a831ce00-b8c0-11eb-820a-24a4609516bb.png)
