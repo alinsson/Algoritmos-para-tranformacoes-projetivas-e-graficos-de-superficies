@@ -13,7 +13,12 @@ Primeiros testes com gráficos planos:
 ![image](https://user-images.githubusercontent.com/6897439/118873679-66a12300-b8c0-11eb-9b45-d1ce8b307f84.png)
 ![image](https://user-images.githubusercontent.com/6897439/118875170-1a56e280-b8c2-11eb-87c0-7e0ba1fe1198.png)
 
-O código constrói o gráfico de uma superfície definida em forma paramétrica por F(u,v) = (f1(u,v), f2(u,v), f3(u,v)), com u E [umin, umax] e v E [umin, umax]:
+O código constrói o gráfico de uma superfície definida em forma paramétrica por F(u,v) = (f1(u,v), f2(u,v), f3(u,v)), com u E [umin, umax] e v E [umin, umax].
+Algumas funções utilizadas:
+
+![image](https://user-images.githubusercontent.com/6897439/118873795-8b959600-b8c0-11eb-82d9-acfa1e3ffa9f.png)
+
+Resultado:
 
 ![image](https://user-images.githubusercontent.com/6897439/118874943-d9f76480-b8c1-11eb-9b27-d1f0bdacd1df.png)
 ![image](https://user-images.githubusercontent.com/6897439/118874972-e380cc80-b8c1-11eb-91fe-8bb821af06d2.png)
@@ -27,7 +32,6 @@ Existem técnicas para melhorar a visualização do seu gráfico, como sombreame
 Usado com gráficos de funções z = f(x,y).
 Algumas funções utilizadas:
 
-![image](https://user-images.githubusercontent.com/6897439/118873795-8b959600-b8c0-11eb-82d9-acfa1e3ffa9f.png)
 ![image](https://user-images.githubusercontent.com/6897439/118873818-918b7700-b8c0-11eb-9538-6f9ed87d1677.png)
 
 Resultado:
